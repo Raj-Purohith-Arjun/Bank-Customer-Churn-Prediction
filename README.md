@@ -145,7 +145,7 @@ This analysis provides a foundation for targeted, data-driven customer retention
 - Product usage
 - Engagement
 
-…the bank can build personalized outreach and reduce its 20.4% churn rate. Continued investment in predictive modeling and customer feedback will refine strategies and improve customer lifetime value.
+The bank can build personalized outreach and reduce its 20.4% churn rate. Continued investment in predictive modeling and customer feedback will refine strategies and improve customer lifetime value.
 
 ---
 
